@@ -25,3 +25,7 @@ This is basically all of the leetcode execises I have ever done (in Go).
   intermediate results, and reuse them instead of doing the calculation again.
 - Priority queues: track / prioritise past decisions and possibly change your mind about them.
 
+
+Sidenotes:
+- The go documentation is mediocre.
+- The heap package was designed to be confusing. Garbage user experience.
